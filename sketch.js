@@ -6,7 +6,7 @@ function setup() {
 
 function draw() {
   background("purple");
-  fill("pink");
+  fill("lightblue");
   i=random(10,400);
   j=random(20,380);
   k =random(30,100);
